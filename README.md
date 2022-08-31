@@ -11,7 +11,7 @@ To give an idea, Bootstrap, Laravel, JavaScript and WordPress are the most frequ
 
 As a developer, you have to constantly develop yourself. Therefore I'm following an extra study in the field of IT at the College of Ghent (HoGent).
 
-Besides working full-time for Spilberg, I have my own side company [CollisionCourse](https://www.collisioncourse.be/). My focus here is mainly on coaching and consulting. Finding the correct solutions for projects and companies. A small part contains development.
+Besides working full-time for Spilberg, I have my own side company [CollisionCourse](https://www.collisioncourse.be/). My focus here is mainly on coaching and consulting. Finding the correct solutions for projects and companies. A very small part contains development.
 
 In my remaining (free) time I coach basketball on a pretty high level and love, collecting and building Lego as an Adult Fan of Lego (AFOL).
 
