@@ -13,4 +13,4 @@ As a developer, you have to constantly develop yourself. Therefore I'm following
 
 In my remaining (free) time I coach basketball on a pretty high level and love, collecting and building Lego as an Adult Fan of Lego (AFOL).
 
-![Logo DWCj](https://github.com/DWCj/DWCj/blob/main/dwcj_logo_x2.png)
+![Logo DWCj](https://github.com/DWCj/DWCj/blob/main/dwcj_logo.png)
