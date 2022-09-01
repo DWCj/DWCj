@@ -16,3 +16,7 @@ Besides working full-time for Spilberg, I have my own side company [CollisionCou
 In my remaining (free) time I coach basketball on a pretty high level and love, collecting and building Lego as an Adult Fan of Lego (AFOL).
 
 ![Logo DWCj](https://github.com/DWCj/DWCj/blob/main/dwcj_logo.png)
+
+___Side note:___
+*My GitHub account has only one (1) public and eight (8) private repositories. (7) repositories are at the CollisionCourse GitHub group.
+Other repositories I worked on are the property of other companies.*
