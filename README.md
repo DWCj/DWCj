@@ -7,8 +7,8 @@ Currently, I'm providing consultancy work as a software quality engineer.
 
 My focus at my main practice lies in software testing, mostly automation and security.
 Besides working full-time for Brightest, I have my own side company [CollisionCourse](https://www.collisioncourse.be/).
-My focus here is mainly on coaching and consulting. Finding the correct solutions for projects and companies. The other part contains development.
-Mostly using the Symfony and Laravel framework for the backend. Bootstrap and various style and javascript frameworks for the front end.
+My focus here is mainly on coaching and (sports)consulting, mainly finding the correct solutions for projects and companies by discovering and collaborating with the correct partners.
+The other part contains development. Mostly using the Symfony and Laravel framework for the backend. Bootstrap and various style and javascript frameworks for the front end.
 Besides that, my experience includes a couple more programming languages and CMS packages. CMS packages going from WordPress (with WooCommerce) to Drupal.
 Within the field of CRM, I have a developing experience with Dolibarr.
 
