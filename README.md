@@ -1,6 +1,6 @@
 ### Hi there I'm Cedric, better known as Cj 👋
 
-[![Linkedin]((https://github.com/DWCj/DWCj/blob/main/linkedin_logo.png)](https://www.linkedin.com/in/cedric-cj-de-weirt-51928570/)
+[LinkedIn](https://www.linkedin.com/in/cedric-cj-de-weirt-51928570/)
 
 I work as a consultant at Brightest, a software and consultancy agency located in Kontich (BE), Gent (BE), and Genk (BE).
 Currently, I'm providing consultancy work as a software quality engineer.
