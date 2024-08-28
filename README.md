@@ -13,7 +13,8 @@ Using mostly WordPress with WooCommerce, Dolibarr for CRM packages, and Symfony 
 Besides that, my experience includes a couple more programming languages and CMS packages.
 
 I'm a very lucky man to have an amazing girlfriend and a curious little cat.
-In my remaining (free) time I love basketball, collecting legendary Pokemon cards, and collecting/building Lego as an Adult Fan of Lego (AFOL).
+In my remaining (free) time, I love basketball and collecting/selling legendary Pokemon cards, relieving a part of my childhood.
+
 As a person, you have to develop yourself constantly. Therefore I'm following an extra study in IT at the College of Ghent (HoGent).
 
 ![Logo DWCj](https://github.com/DWCj/DWCj/blob/main/dwcj_logo.png)
