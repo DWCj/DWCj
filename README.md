@@ -1,4 +1,4 @@
-### Hi there I'm Cedric, better known as Cj 👋
+### Hi there, I'm Cedric, better known as Cj 👋
 
 [LinkedIn](https://www.linkedin.com/in/cedric-cj-de-weirt-51928570/)
 
